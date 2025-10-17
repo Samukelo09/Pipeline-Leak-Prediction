@@ -87,7 +87,7 @@ python -m venv .venv
 # macOS/Linux
 source .venv/bin/activate
 # Windows
-.venv\\Scripts\\activate
+.venv\Scripts\activate
 
 # 3) Install deps
 pip install -r requirements.txt
@@ -95,3 +95,18 @@ pip install -r requirements.txt
 # 4) Run notebooks
 jupyter notebook data_engineering.ipynb
 jupyter notebook water_pipeline_leak_pred.ipynb
+```
+
+> Tip: For reproducible runs, set a global seed and persist the fitted pipeline with `joblib.dump(...)`.
+
+---
+
+## Citation & Acknowledgements
+If you reference this work, please cite the accompanying manuscript in this repository.  
+Acknowledgements: **NRF bursary**, **Umgeni Water** (data access), and **Prof. Okuthe Paul Kogeda** (supervision).
+
+---
+
+##  Author
+**Samukelo Mkhize** · University of KwaZulu‑Natal  
+📧 [Email](mailto:samkelomanager@gmail.com) · 🌐 [Website](https://samukelo09.github.io/My-Personal-Portfolio/) · 🔗 [GitHub](https://github.com/Samukelo09)

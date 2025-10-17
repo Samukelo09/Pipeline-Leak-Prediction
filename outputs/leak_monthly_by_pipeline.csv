@@ -1,0 +1,575 @@
+pipeline,event_month,leak_count
+261 Pipeline,2020-02-01,1
+261 Pipeline,2020-03-01,1
+261 Pipeline,2020-10-01,1
+261 Pipeline,2021-01-01,1
+261 Pipeline,2021-06-01,1
+261 Pipeline,2021-12-01,1
+60 Pipeline,2020-04-01,1
+60 Pipeline,2020-10-01,1
+60 Pipeline,2022-01-01,1
+60 Pipeline,2025-02-01,1
+60 Pipeline,2025-03-01,1
+60 Pipeline,2025-04-01,1
+Albert Falls Pipeline,2018-01-01,1
+Albert Falls Pipeline,2020-02-01,1
+Albert Falls Pipeline,2020-07-01,2
+Albert Falls Pipeline,2020-08-01,3
+Albert Falls Pipeline,2020-11-01,1
+Albert Falls Pipeline,2021-03-01,1
+Albert Falls Pipeline,2021-05-01,2
+Albert Falls Pipeline,2021-08-01,1
+Albert Falls Pipeline,2021-09-01,3
+Albert Falls Pipeline,2021-10-01,1
+Albert Falls Pipeline,2022-01-01,1
+Albert Falls Pipeline,2022-03-01,1
+Albert Falls Pipeline,2022-04-01,1
+Albert Falls Pipeline,2022-11-01,1
+Albert Falls Pipeline,2023-01-01,1
+Albert Falls Pipeline,2024-01-01,2
+Albert Falls Pipeline,2024-03-01,1
+Albert Falls Pipeline,2024-04-01,1
+Albert Falls Pipeline,2024-05-01,1
+Albert Falls Pipeline,2024-07-01,2
+Albert Falls Pipeline,2024-08-01,1
+Albert Falls Pipeline,2024-10-01,1
+Albert Falls Pipeline,2024-11-01,1
+Albert Falls Pipeline,2025-02-01,2
+Albert Falls Pipeline,2025-03-01,2
+Albert Falls Pipeline,2025-04-01,1
+Ashburton Pipeline,2021-09-01,2
+Ashburton Pipeline,2021-10-01,1
+Ashburton Pipeline,2022-03-01,1
+Ashburton Pipeline,2022-05-01,1
+Ashburton Pipeline,2022-12-01,1
+Ashburton Pipeline,2024-01-01,1
+Ashburton Pipeline,2024-02-01,1
+Bruyns Hill Pipeline,2020-01-01,1
+Bruyns Hill Pipeline,2020-06-01,1
+Bruyns Hill Pipeline,2020-09-01,1
+Bruyns Hill Pipeline,2021-08-01,1
+Bruyns Hill Pipeline,2021-10-01,1
+Bruyns Hill Pipeline,2022-03-01,1
+Bruyns Hill Pipeline,2023-03-01,1
+Bruyns Hill Pipeline,2024-03-01,2
+Bruyns Hill Pipeline,2024-04-01,2
+Bruyns Hill Pipeline,2024-07-01,1
+Bruyns Hill Pipeline,2024-09-01,1
+Bruyns Hill Pipeline,2024-11-01,1
+Eston-Umbumbulu Pipeline,2020-07-01,1
+Eston-Umbumbulu Pipeline,2020-08-01,1
+Eston-Umbumbulu Pipeline,2020-11-01,1
+Eston-Umbumbulu Pipeline,2021-06-01,1
+Eston-Umbumbulu Pipeline,2021-07-01,3
+Eston-Umbumbulu Pipeline,2021-09-01,1
+Eston-Umbumbulu Pipeline,2021-11-01,2
+Eston-Umbumbulu Pipeline,2021-12-01,1
+Eston-Umbumbulu Pipeline,2022-01-01,2
+Eston-Umbumbulu Pipeline,2022-03-01,1
+Eston-Umbumbulu Pipeline,2022-07-01,1
+Eston-Umbumbulu Pipeline,2022-08-01,2
+Eston-Umbumbulu Pipeline,2022-09-01,1
+Eston-Umbumbulu Pipeline,2022-11-01,2
+Eston-Umbumbulu Pipeline,2022-12-01,1
+Eston-Umbumbulu Pipeline,2023-01-01,1
+Eston-Umbumbulu Pipeline,2023-03-01,2
+Eston-Umbumbulu Pipeline,2023-04-01,3
+Eston-Umbumbulu Pipeline,2023-06-01,3
+Eston-Umbumbulu Pipeline,2023-08-01,1
+Eston-Umbumbulu Pipeline,2023-09-01,1
+Eston-Umbumbulu Pipeline,2023-10-01,1
+Eston-Umbumbulu Pipeline,2024-01-01,1
+Eston-Umbumbulu Pipeline,2024-02-01,1
+Eston-Umbumbulu Pipeline,2024-05-01,2
+Eston-Umbumbulu Pipeline,2024-08-01,2
+Eston-Umbumbulu Pipeline,2024-09-01,2
+Eston-Umbumbulu Pipeline,2024-10-01,2
+Eston-Umbumbulu Pipeline,2024-12-01,2
+Eston-Umbumbulu Pipeline,2025-02-01,1
+Eston-Umbumbulu Pipeline,2025-04-01,1
+Hopewell Pipeline,2021-01-01,1
+Howick Pipeline,2019-12-01,1
+Howick Pipeline,2020-01-01,1
+Howick Pipeline,2020-06-01,1
+Howick Pipeline,2020-09-01,1
+Howick Pipeline,2021-03-01,1
+Howick Pipeline,2021-04-01,1
+Howick Pipeline,2021-05-01,2
+Howick Pipeline,2021-06-01,1
+Howick Pipeline,2021-07-01,2
+Howick Pipeline,2022-02-01,4
+Howick Pipeline,2022-03-01,1
+Howick Pipeline,2022-05-01,1
+Howick Pipeline,2022-06-01,1
+Howick Pipeline,2022-09-01,1
+Howick Pipeline,2023-04-01,1
+Howick Pipeline,2023-05-01,1
+Howick Pipeline,2023-07-01,1
+Howick Pipeline,2024-12-01,1
+Howick Pipeline,2025-03-01,1
+Howick West Pipeline,2020-01-01,1
+Howick West Pipeline,2020-02-01,2
+Howick West Pipeline,2021-02-01,1
+Howick West Pipeline,2021-08-01,1
+Howick West Pipeline,2021-09-01,1
+Howick West Pipeline,2021-11-01,1
+Howick West Pipeline,2023-01-01,1
+Howick West Pipeline,2023-02-01,1
+Howick West Pipeline,2023-05-01,1
+Howick West Pipeline,2023-08-01,1
+Howick West Pipeline,2024-02-01,1
+Howick West Pipeline,2024-12-01,1
+Howick West Pipeline,2025-03-01,1
+Ixopo Golf Course Borehole Pipeline,2024-06-01,1
+Ixopo Raw Water Gravity Pipeline,2022-07-01,1
+Ixopo Raw Water Rising Main,2020-05-01,1
+Ixopo Raw Water Rising Main,2021-01-01,1
+Ixopo Raw Water Rising Main,2021-04-01,1
+Ixopo Raw Water Rising Main,2021-05-01,1
+Ixopo Raw Water Rising Main,2022-02-01,1
+Ixopo Raw Water Rising Main,2022-03-01,1
+Ixopo Raw Water Rising Main,2022-05-01,1
+Ixopo Raw Water Rising Main,2022-08-01,2
+Ixopo Raw Water Rising Main,2023-10-01,1
+Ixopo Raw Water Rising Main,2024-06-01,1
+Ixopo Raw Water Rising Main,2025-03-01,1
+Lion Park Pipeline,2018-06-01,1
+Lion Park Pipeline,2018-08-01,1
+Lion Park Pipeline,2019-02-01,1
+Lion Park Pipeline,2019-11-01,1
+Lion Park Pipeline,2020-01-01,2
+Lion Park Pipeline,2020-02-01,1
+Lion Park Pipeline,2020-03-01,1
+Lion Park Pipeline,2020-04-01,2
+Lion Park Pipeline,2020-05-01,2
+Lion Park Pipeline,2020-06-01,3
+Lion Park Pipeline,2020-07-01,3
+Lion Park Pipeline,2020-08-01,1
+Lion Park Pipeline,2020-09-01,1
+Lion Park Pipeline,2020-10-01,2
+Lion Park Pipeline,2020-11-01,7
+Lion Park Pipeline,2020-12-01,2
+Lion Park Pipeline,2021-01-01,3
+Lion Park Pipeline,2021-02-01,5
+Lion Park Pipeline,2021-03-01,2
+Lion Park Pipeline,2021-04-01,4
+Lion Park Pipeline,2021-05-01,2
+Lion Park Pipeline,2021-06-01,2
+Lion Park Pipeline,2021-07-01,3
+Lion Park Pipeline,2021-09-01,6
+Lion Park Pipeline,2021-10-01,3
+Lion Park Pipeline,2021-11-01,3
+Lion Park Pipeline,2022-01-01,6
+Lion Park Pipeline,2022-02-01,7
+Lion Park Pipeline,2022-03-01,5
+Lion Park Pipeline,2022-04-01,3
+Lion Park Pipeline,2022-05-01,9
+Lion Park Pipeline,2022-06-01,5
+Lion Park Pipeline,2022-07-01,6
+Lion Park Pipeline,2022-08-01,3
+Lion Park Pipeline,2022-09-01,3
+Lion Park Pipeline,2022-10-01,2
+Lion Park Pipeline,2022-11-01,2
+Lion Park Pipeline,2022-12-01,1
+Lion Park Pipeline,2023-01-01,3
+Lion Park Pipeline,2023-02-01,6
+Lion Park Pipeline,2023-03-01,4
+Lion Park Pipeline,2023-04-01,2
+Lion Park Pipeline,2023-05-01,1
+Lion Park Pipeline,2023-06-01,5
+Lion Park Pipeline,2023-07-01,2
+Lion Park Pipeline,2023-08-01,6
+Lion Park Pipeline,2023-09-01,2
+Lion Park Pipeline,2023-10-01,2
+Lion Park Pipeline,2023-11-01,5
+Lion Park Pipeline,2023-12-01,4
+Lion Park Pipeline,2024-01-01,13
+Lion Park Pipeline,2024-02-01,3
+Lion Park Pipeline,2024-03-01,2
+Lion Park Pipeline,2024-04-01,5
+Lion Park Pipeline,2024-05-01,4
+Lion Park Pipeline,2024-06-01,7
+Lion Park Pipeline,2024-07-01,6
+Lion Park Pipeline,2024-08-01,2
+Lion Park Pipeline,2024-11-01,2
+Lion Park Pipeline,2024-12-01,6
+Lion Park Pipeline,2025-01-01,3
+Lion Park Pipeline,2025-02-01,3
+Lion Park Pipeline,2025-03-01,8
+Lion Park Pipeline,2025-04-01,2
+Lion Park Pipeline,2025-05-01,2
+Manyavu Pipeline,2019-01-01,1
+Manyavu Pipeline,2020-02-01,1
+Manyavu Pipeline,2020-03-01,1
+Manyavu Pipeline,2020-11-01,1
+Manyavu Pipeline,2021-02-01,2
+Manyavu Pipeline,2021-03-01,2
+Manyavu Pipeline,2021-04-01,2
+Manyavu Pipeline,2021-05-01,2
+Manyavu Pipeline,2021-10-01,3
+Manyavu Pipeline,2021-11-01,1
+Manyavu Pipeline,2022-03-01,1
+Manyavu Pipeline,2023-07-01,1
+Manyavu Pipeline,2023-11-01,1
+Manyavu Pipeline,2023-12-01,1
+Manyavu Pipeline,2024-07-01,1
+Manyavu Pipeline,2024-08-01,4
+Manyavu Pipeline,2024-09-01,1
+Manyavu Pipeline,2024-10-01,2
+Manyavu Pipeline,2024-12-01,1
+Manyavu Pipeline,2025-02-01,1
+Manyavu Pipeline,2025-05-01,2
+Mpophomeni Pipeline,2019-12-01,1
+Mpophomeni Pipeline,2020-04-01,1
+Mpophomeni Pipeline,2020-06-01,1
+Mpophomeni Pipeline,2021-03-01,1
+Mpophomeni Pipeline,2021-04-01,1
+Mpophomeni Pipeline,2021-05-01,1
+Mpophomeni Pipeline,2021-07-01,1
+Mpophomeni Pipeline,2022-02-01,1
+Mpophomeni Pipeline,2022-04-01,1
+Mpophomeni Pipeline,2022-05-01,2
+Mpophomeni Pipeline,2023-01-01,3
+Mpophomeni Pipeline,2023-07-01,1
+Mpophomeni Pipeline,2023-10-01,1
+Mpophomeni Pipeline,2023-12-01,1
+Mpophomeni Pipeline,2024-02-01,1
+Mpophomeni Pipeline,2024-03-01,1
+Mpophomeni Pipeline,2024-04-01,2
+Mpophomeni Pipeline,2024-06-01,2
+Mpophomeni Pipeline,2024-07-01,1
+Mpophomeni Pipeline,2024-08-01,1
+Mpophomeni Pipeline,2024-10-01,1
+Mpophomeni Pipeline,2024-12-01,3
+Mpophomeni Pipeline,2025-03-01,2
+Mpophomeni Pipeline,2025-04-01,1
+Sweetwaters Pipeline,2022-07-01,1
+Table Mountain Pipeline,2019-06-01,1
+Table Mountain Pipeline,2020-03-01,2
+Table Mountain Pipeline,2021-01-01,2
+Table Mountain Pipeline,2021-03-01,1
+Table Mountain Pipeline,2021-07-01,2
+Table Mountain Pipeline,2021-09-01,2
+Table Mountain Pipeline,2021-10-01,1
+Table Mountain Pipeline,2022-01-01,2
+Table Mountain Pipeline,2022-02-01,1
+Table Mountain Pipeline,2022-03-01,2
+Table Mountain Pipeline,2022-04-01,2
+Table Mountain Pipeline,2022-06-01,2
+Table Mountain Pipeline,2022-11-01,1
+Table Mountain Pipeline,2023-06-01,3
+Table Mountain Pipeline,2023-07-01,1
+Table Mountain Pipeline,2023-08-01,1
+Table Mountain Pipeline,2024-03-01,1
+Table Mountain Pipeline,2024-04-01,1
+Table Mountain Pipeline,2024-05-01,1
+Table Mountain Pipeline,2024-08-01,2
+Table Mountain Pipeline,2024-10-01,3
+Table Mountain Pipeline,2025-01-01,1
+Table Mountain Pipeline,2025-02-01,2
+Table Mountain Pipeline,2025-05-01,1
+Thornville,2020-08-01,1
+Thornville,2020-11-01,2
+Thornville,2020-12-01,1
+Thornville,2021-03-01,1
+Thornville,2021-08-01,1
+Thornville,2021-10-01,1
+Thornville,2022-02-01,2
+Thornville,2022-04-01,1
+Thornville,2022-06-01,1
+Thornville,2022-12-01,2
+Thornville,2023-03-01,1
+Thornville,2023-07-01,3
+Thornville,2023-08-01,2
+Thornville,2024-02-01,1
+Thornville,2024-03-01,1
+Thornville,2024-07-01,1
+Thornville,2024-08-01,1
+Thornville,2025-02-01,2
+Thornville,2025-04-01,1
+Unknown pipeline,2017-08-01,1
+Unknown pipeline,2017-12-01,2
+Unknown pipeline,2018-04-01,1
+Unknown pipeline,2018-10-01,1
+Unknown pipeline,2019-03-01,1
+Unknown pipeline,2019-06-01,1
+Unknown pipeline,2019-09-01,1
+Unknown pipeline,2019-11-01,1
+Unknown pipeline,2019-12-01,2
+Unknown pipeline,2020-01-01,2
+Unknown pipeline,2020-02-01,2
+Unknown pipeline,2020-03-01,4
+Unknown pipeline,2020-04-01,4
+Unknown pipeline,2020-05-01,6
+Unknown pipeline,2020-06-01,1
+Unknown pipeline,2020-08-01,2
+Unknown pipeline,2020-09-01,1
+Unknown pipeline,2020-10-01,3
+Unknown pipeline,2020-11-01,3
+Unknown pipeline,2020-12-01,4
+Unknown pipeline,2021-01-01,6
+Unknown pipeline,2021-02-01,4
+Unknown pipeline,2021-03-01,2
+Unknown pipeline,2021-04-01,2
+Unknown pipeline,2021-05-01,5
+Unknown pipeline,2021-06-01,8
+Unknown pipeline,2021-07-01,2
+Unknown pipeline,2021-08-01,5
+Unknown pipeline,2021-09-01,7
+Unknown pipeline,2021-10-01,7
+Unknown pipeline,2021-11-01,6
+Unknown pipeline,2021-12-01,3
+Unknown pipeline,2022-01-01,6
+Unknown pipeline,2022-02-01,5
+Unknown pipeline,2022-03-01,2
+Unknown pipeline,2022-04-01,6
+Unknown pipeline,2022-05-01,3
+Unknown pipeline,2022-06-01,3
+Unknown pipeline,2022-07-01,6
+Unknown pipeline,2022-08-01,2
+Unknown pipeline,2022-09-01,6
+Unknown pipeline,2022-10-01,3
+Unknown pipeline,2022-11-01,1
+Unknown pipeline,2022-12-01,4
+Unknown pipeline,2023-01-01,2
+Unknown pipeline,2023-02-01,4
+Unknown pipeline,2023-03-01,3
+Unknown pipeline,2023-04-01,2
+Unknown pipeline,2023-05-01,3
+Unknown pipeline,2023-06-01,5
+Unknown pipeline,2023-07-01,5
+Unknown pipeline,2023-08-01,4
+Unknown pipeline,2023-10-01,3
+Unknown pipeline,2023-12-01,4
+Unknown pipeline,2024-01-01,4
+Unknown pipeline,2024-02-01,5
+Unknown pipeline,2024-03-01,2
+Unknown pipeline,2024-04-01,2
+Unknown pipeline,2024-05-01,5
+Unknown pipeline,2024-06-01,7
+Unknown pipeline,2024-07-01,9
+Unknown pipeline,2024-08-01,1
+Unknown pipeline,2024-09-01,3
+Unknown pipeline,2024-10-01,7
+Unknown pipeline,2024-11-01,3
+Unknown pipeline,2024-12-01,4
+Unknown pipeline,2025-01-01,6
+Unknown pipeline,2025-02-01,6
+Unknown pipeline,2025-03-01,3
+Unknown pipeline,2025-04-01,8
+Unknown pipeline,2025-05-01,4
+Vulindlela Pipeline,2020-04-01,1
+Vulindlela Pipeline,2020-05-01,1
+Vulindlela Pipeline,2020-06-01,2
+Vulindlela Pipeline,2020-08-01,1
+Vulindlela Pipeline,2021-01-01,1
+Vulindlela Pipeline,2021-02-01,1
+Vulindlela Pipeline,2021-07-01,1
+Vulindlela Pipeline,2021-09-01,1
+Vulindlela Pipeline,2021-10-01,1
+Vulindlela Pipeline,2021-11-01,1
+Vulindlela Pipeline,2022-02-01,2
+Vulindlela Pipeline,2022-06-01,1
+Vulindlela Pipeline,2022-07-01,1
+Vulindlela Pipeline,2023-06-01,1
+Vulindlela Pipeline,2023-07-01,2
+Vulindlela Pipeline,2023-09-01,1
+Vulindlela Pipeline,2023-10-01,1
+Vulindlela Pipeline,2024-01-01,1
+Vulindlela Pipeline,2024-02-01,1
+Vulindlela Pipeline,2024-05-01,1
+Vulindlela Pipeline,2024-08-01,2
+Vulindlela Pipeline,2025-04-01,1
+Wartburg Pipeline,2019-02-01,1
+Wartburg Pipeline,2020-03-01,1
+Wartburg Pipeline,2020-04-01,1
+Wartburg Pipeline,2020-05-01,2
+Wartburg Pipeline,2020-09-01,1
+Wartburg Pipeline,2021-06-01,1
+Wartburg Pipeline,2022-03-01,1
+Wartburg Pipeline,2022-05-01,1
+Wartburg Pipeline,2022-08-01,1
+Wartburg Pipeline,2023-08-01,1
+Wartburg Pipeline,2024-01-01,2
+Wartburg Pipeline,2024-06-01,2
+Wartburg Pipeline,2025-01-01,1
+Wartburg Pipeline,2025-05-01,1
+Wartburg Pipeline(’69 Pipeline),2018-10-01,1
+Wartburg Pipeline(’69 Pipeline),2019-03-01,1
+Wartburg Pipeline(’69 Pipeline),2019-04-01,2
+Wartburg Pipeline(’69 Pipeline),2019-05-01,1
+Wartburg Pipeline(’69 Pipeline),2019-09-01,1
+Wartburg Pipeline(’69 Pipeline),2019-11-01,1
+Wartburg Pipeline(’69 Pipeline),2020-03-01,2
+Wartburg Pipeline(’69 Pipeline),2020-04-01,2
+Wartburg Pipeline(’69 Pipeline),2020-05-01,1
+Wartburg Pipeline(’69 Pipeline),2020-06-01,5
+Wartburg Pipeline(’69 Pipeline),2020-07-01,1
+Wartburg Pipeline(’69 Pipeline),2020-10-01,2
+Wartburg Pipeline(’69 Pipeline),2020-11-01,1
+Wartburg Pipeline(’69 Pipeline),2020-12-01,2
+Wartburg Pipeline(’69 Pipeline),2021-02-01,1
+Wartburg Pipeline(’69 Pipeline),2021-05-01,1
+Wartburg Pipeline(’69 Pipeline),2021-06-01,1
+Wartburg Pipeline(’69 Pipeline),2021-08-01,1
+Wartburg Pipeline(’69 Pipeline),2021-09-01,1
+Wartburg Pipeline(’69 Pipeline),2022-02-01,2
+Wartburg Pipeline(’69 Pipeline),2022-04-01,1
+Wartburg Pipeline(’69 Pipeline),2022-06-01,1
+Wartburg Pipeline(’69 Pipeline),2022-07-01,1
+Wartburg Pipeline(’69 Pipeline),2022-12-01,1
+Wartburg Pipeline(’69 Pipeline),2023-01-01,1
+Wartburg Pipeline(’69 Pipeline),2023-04-01,2
+Wartburg Pipeline(’69 Pipeline),2023-05-01,1
+Wartburg Pipeline(’69 Pipeline),2023-09-01,3
+Wartburg Pipeline(’69 Pipeline),2024-04-01,1
+Wartburg Pipeline(’69 Pipeline),2025-01-01,1
+Wartburg Pipeline(’69 Pipeline),2025-05-01,2
+‘251 Pipeline,2020-01-01,2
+‘251 Pipeline,2020-09-01,1
+‘251 Pipeline,2020-11-01,1
+‘251 Pipeline,2021-08-01,2
+‘251 Pipeline,2021-12-01,1
+‘251 Pipeline,2022-03-01,1
+‘251 Pipeline,2022-05-01,1
+‘251 Pipeline,2022-06-01,1
+‘251 Pipeline,2022-07-01,1
+‘251 Pipeline,2023-01-01,2
+‘251 Pipeline,2023-03-01,1
+‘251 Pipeline,2023-04-01,1
+‘251 Pipeline,2023-05-01,1
+‘251 Pipeline,2023-07-01,2
+‘251 Pipeline,2023-09-01,1
+‘251 Pipeline,2023-10-01,1
+‘251 Pipeline,2023-11-01,1
+‘251 Pipeline,2023-12-01,1
+‘251 Pipeline,2024-01-01,1
+‘251 Pipeline,2024-10-01,2
+‘251 Pipeline,2024-11-01,1
+‘251 Pipeline,2025-04-01,1
+‘51 Pipeline,2023-07-01,1
+‘51 Pipeline,2024-11-01,1
+‘51 Pipeline,2025-03-01,1
+’257 Pipeline,2022-08-01,1
+’257 Pipeline,2023-04-01,1
+’357 Pipeline,2022-07-01,1
+’357 Pipeline,2024-10-01,1
+’53 Pipeline,2020-09-01,1
+’53 Pipeline,2020-11-01,1
+’53 Pipeline,2022-02-01,2
+’53 Pipeline,2022-04-01,1
+’53 Pipeline,2022-08-01,1
+’53 Pipeline,2023-02-01,2
+’53 Pipeline,2023-03-01,1
+’53 Pipeline,2023-06-01,1
+’53 Pipeline,2023-08-01,1
+’53 Pipeline,2024-05-01,2
+’53 Pipeline,2024-06-01,4
+’53 Pipeline,2024-10-01,2
+’53 Pipeline,2025-02-01,1
+’53 Pipeline,2025-03-01,2
+’56 Pipeline,2018-09-01,1
+’56 Pipeline,2019-04-01,1
+’56 Pipeline,2019-11-01,1
+’56 Pipeline,2020-01-01,1
+’56 Pipeline,2020-03-01,5
+’56 Pipeline,2020-04-01,2
+’56 Pipeline,2020-05-01,5
+’56 Pipeline,2020-07-01,2
+’56 Pipeline,2020-08-01,1
+’56 Pipeline,2020-09-01,2
+’56 Pipeline,2020-10-01,1
+’56 Pipeline,2020-12-01,3
+’56 Pipeline,2021-01-01,2
+’56 Pipeline,2021-04-01,3
+’56 Pipeline,2021-06-01,3
+’56 Pipeline,2021-08-01,1
+’56 Pipeline,2021-09-01,1
+’56 Pipeline,2022-01-01,2
+’56 Pipeline,2022-03-01,1
+’56 Pipeline,2023-02-01,3
+’56 Pipeline,2023-06-01,1
+’56 Pipeline,2023-08-01,1
+’56 Pipeline,2023-09-01,1
+’56 Pipeline,2023-12-01,2
+’56 Pipeline,2024-01-01,3
+’56 Pipeline,2024-02-01,2
+’56 Pipeline,2024-03-01,2
+’56 Pipeline,2024-04-01,3
+’56 Pipeline,2024-05-01,1
+’56 Pipeline,2024-07-01,3
+’56 Pipeline,2024-08-01,3
+’56 Pipeline,2024-09-01,2
+’56 Pipeline,2024-10-01,4
+’56 Pipeline,2024-12-01,1
+’56 Pipeline,2025-02-01,1
+’56 Pipeline,2025-03-01,2
+’56 Pipeline,2025-04-01,2
+’57 Pipeline,2020-09-01,1
+’57 Pipeline,2020-11-01,3
+’57 Pipeline,2020-12-01,1
+’57 Pipeline,2021-06-01,1
+’57 Pipeline,2021-07-01,2
+’57 Pipeline,2021-08-01,1
+’57 Pipeline,2022-05-01,1
+’57 Pipeline,2023-08-01,1
+’57 Pipeline,2023-09-01,2
+’57 Pipeline,2023-11-01,1
+’57 Pipeline,2024-11-01,1
+’57 Pipeline,2024-12-01,1
+’61 Pipeline,2019-11-01,1
+’61 Pipeline,2020-03-01,1
+’61 Pipeline,2020-08-01,1
+’61 Pipeline,2020-11-01,1
+’61 Pipeline,2021-01-01,1
+’61 Pipeline,2021-02-01,2
+’61 Pipeline,2021-06-01,2
+’61 Pipeline,2021-07-01,1
+’61 Pipeline,2021-08-01,1
+’61 Pipeline,2021-10-01,5
+’61 Pipeline,2021-11-01,1
+’61 Pipeline,2022-02-01,1
+’61 Pipeline,2022-04-01,3
+’61 Pipeline,2022-05-01,1
+’61 Pipeline,2022-10-01,1
+’61 Pipeline,2022-12-01,1
+’61 Pipeline,2023-04-01,1
+’61 Pipeline,2023-08-01,1
+’61 Pipeline,2023-10-01,1
+’61 Pipeline,2024-01-01,1
+’61 Pipeline,2024-06-01,4
+’61 Pipeline,2025-03-01,1
+’67 Pipeline (Old) - Backfeed,2019-10-01,1
+’67 Pipeline (Old) - Backfeed,2020-09-01,1
+’67 Pipeline (Old) - Backfeed,2021-10-01,2
+’67 Pipeline (Old) - Backfeed,2021-12-01,1
+’67 Pipeline (Old) - Backfeed,2023-06-01,1
+’67 Pipeline (Old) - Backfeed,2023-08-01,1
+’67 Pipeline (Old) - Backfeed,2023-10-01,1
+’67 Pipeline (Old) - Backfeed,2024-10-01,1
+’67 Pipeline (Old) - Backfeed,2025-01-01,1
+’Richmond Pipeline,2019-06-01,1
+’Richmond Pipeline,2019-12-01,2
+’Richmond Pipeline,2020-05-01,1
+’Richmond Pipeline,2020-06-01,1
+’Richmond Pipeline,2020-07-01,1
+’Richmond Pipeline,2021-02-01,1
+’Richmond Pipeline,2021-05-01,1
+’Richmond Pipeline,2021-06-01,3
+’Richmond Pipeline,2021-07-01,1
+’Richmond Pipeline,2021-09-01,1
+’Richmond Pipeline,2021-10-01,1
+’Richmond Pipeline,2021-11-01,2
+’Richmond Pipeline,2021-12-01,1
+’Richmond Pipeline,2022-01-01,2
+’Richmond Pipeline,2022-02-01,2
+’Richmond Pipeline,2022-04-01,1
+’Richmond Pipeline,2022-06-01,2
+’Richmond Pipeline,2023-10-01,1
+’Richmond Pipeline,2024-01-01,1
+’Richmond Pipeline,2024-03-01,1
+’Richmond Pipeline,2024-04-01,1
+’Richmond Pipeline,2024-06-01,2
+’Richmond Pipeline,2024-10-01,2
+’Richmond Pipeline,2024-11-01,1
+’Richmond Pipeline,2025-04-01,1

@@ -1,0 +1,101 @@
+event_date,final__PIPELINE NAME,final__SYSTEM,final__SUB SYSTEM,target_leak,risk_prob
+2024-08-21,Howick Pipeline,Upper Mgeni,Midmar,0,0.7085444172912428
+2024-08-27,Howick Pipeline,Upper Mgeni,Midmar,0,0.7085444172912428
+2024-08-08,Howick Pipeline,Upper Mgeni,Midmar,0,0.7085444172912428
+2024-08-14,Howick Pipeline,Upper Mgeni,Midmar,0,0.7085444172912428
+2024-08-14,Howick Pipeline,Upper Mgeni,Midmar,0,0.7085444172912428
+2024-10-10,,Unknown,Unknown,1,0.6966654927069684
+2024-07-10,Howick Pipeline,Upper Mgeni,Midmar,0,0.6964790019716388
+2025-01-16,,Unknown,Unknown,0,0.6913399165268521
+2025-01-09,,Unknown,Unknown,1,0.6878161656603478
+2025-01-07,,Unknown,Unknown,0,0.6850950453351329
+2024-08-20,,Unknown,Unknown,0,0.6725684226162038
+2024-08-14,,Unknown,Unknown,0,0.6725684226162038
+2025-04-08,Howick Pipeline,Upper Mgeni,Midmar,0,0.6612990458098733
+2025-04-15,Howick Pipeline,Upper Mgeni,Midmar,0,0.6473526437056484
+2025-04-15,Howick Pipeline,Upper Mgeni,Midmar,0,0.6459739930742197
+2025-04-29,Howick Pipeline,Upper Mgeni,Midmar,1,0.6459466077120145
+2024-06-11,Howick Pipeline,Upper Mgeni,Midmar,0,0.6419488847763803
+2024-04-23,,Unknown,Unknown,0,0.6380501239152768
+2025-01-13,,Unknown,Unknown,0,0.6351609421279606
+2024-06-20,Howick Pipeline,Upper Mgeni,Midmar,0,0.6351366505878656
+2024-08-26,,Unknown,Unknown,1,0.6339482842535379
+2024-08-05,,Unknown,Unknown,1,0.6328931181077225
+2025-04-01,Howick Pipeline,Upper Mgeni,Midmar,0,0.6274641056723368
+2024-12-11,Howick Pipeline,Upper Mgeni,Midmar,1,0.62440322466363
+2024-07-23,Howick Pipeline,Upper Mgeni,Midmar,0,0.62163139293802
+2024-12-04,Howick Pipeline,Upper Mgeni,Midmar,1,0.6184669199056149
+2024-12-24,Howick Pipeline,Upper Mgeni,Midmar,0,0.6156337250583382
+2024-07-23,,Unknown,Unknown,0,0.6139035642513344
+2024-07-01,Howick Pipeline,Upper Mgeni,Midmar,1,0.6122238822275365
+2024-12-18,Howick Pipeline,Upper Mgeni,Midmar,1,0.6045883768272834
+2024-05-20,Howick Pipeline,Upper Mgeni,Midmar,0,0.6026277868745853
+2024-06-18,,Unknown,Unknown,1,0.6025782371039825
+2024-12-10,Howick Pipeline,Upper Mgeni,Midmar,1,0.5991559053879346
+2025-05-15,Howick Pipeline,Upper Mgeni,Midmar,0,0.5883708622351213
+2025-02-17,,Unknown,Unknown,0,0.587714143302485
+2025-03-18,Howick Pipeline,Upper Mgeni,Midmar,0,0.5865655066993267
+2025-03-10,Howick Pipeline,Upper Mgeni,Midmar,1,0.5865484862009583
+2025-01-14,,Unknown,Unknown,1,0.5838496043019665
+2024-10-27,,Unknown,Unknown,0,0.5818944034942481
+2024-10-24,,Unknown,Unknown,0,0.5793201017696354
+2024-07-30,,Unknown,Unknown,0,0.5785513358055718
+2025-04-08,,Unknown,Unknown,1,0.5781636987540156
+2025-02-24,,Unknown,Unknown,1,0.5750058200166179
+2024-04-15,Howick Pipeline,Upper Mgeni,Midmar,1,0.5747741708021833
+2025-01-07,Howick Pipeline,Upper Mgeni,Midmar,0,0.574599954176459
+2024-07-06,,Unknown,Unknown,0,0.5704396656857461
+2024-12-11,Howick Pipeline,Upper Mgeni,Midmar,0,0.5679183717507373
+2024-04-26,,Unknown,Unknown,1,0.558499847578755
+2025-02-17,,Unknown,Unknown,0,0.5570894530438356
+2025-04-05,Howick Pipeline,Upper Mgeni,Midmar,1,0.556609197960073
+2024-04-15,,Unknown,Unknown,0,0.5530918401401231
+2025-02-17,,Unknown,Unknown,1,0.5528061790614639
+2024-12-10,,Unknown,Unknown,1,0.5500416989328116
+2024-04-18,,Unknown,Unknown,0,0.5476869792403998
+2024-08-26,,Unknown,Unknown,0,0.54752964801542
+2025-05-20,,Unknown,Unknown,1,0.5402087660765995
+2025-03-31,Howick Pipeline,Upper Mgeni,Midmar,1,0.5397387444039924
+2024-07-26,Howick Pipeline,Upper Mgeni,Midmar,1,0.5391492280869223
+2024-10-10,Howick Pipeline,Upper Mgeni,Midmar,0,0.5369993808290411
+2024-10-18,,Unknown,Unknown,1,0.5365859511802672
+2024-05-08,,Unknown,Unknown,1,0.5365360717611478
+2024-10-21,Howick Pipeline,Upper Mgeni,Midmar,0,0.5351010803184912
+2024-06-28,Howick Pipeline,Upper Mgeni,Midmar,1,0.5346258464142994
+2024-07-30,261 Pipeline,Upper Mgeni,Midmar,0,0.532169080795817
+2025-03-18,Howick Pipeline,Upper Mgeni,Midmar,0,0.5318939179328314
+2025-03-18,,Unknown,Unknown,0,0.5318731038885874
+2024-11-25,,Unknown,Unknown,0,0.5309050052998534
+2024-11-13,Howick Pipeline,Upper Mgeni,Midmar,0,0.5293088491014867
+2024-12-19,Howick Pipeline,Upper Mgeni,Midmar,0,0.5280302100805551
+2024-12-20,Howick Pipeline,Upper Mgeni,Midmar,0,0.5280302100805551
+2025-01-07,,Unknown,Unknown,0,0.5275166534924034
+2024-04-15,,Unknown,Unknown,0,0.5268405815115735
+2024-11-13,,Unknown,Unknown,0,0.5265706813111534
+2025-01-03,Howick Pipeline,Upper Mgeni,Midmar,1,0.5256162702188434
+2024-05-02,Howick Pipeline,Upper Mgeni,Midmar,1,0.524756883144435
+2024-05-27,,Unknown,Unknown,0,0.522871985663422
+2025-03-18,,Unknown,Unknown,0,0.5226967249492303
+2024-05-03,Howick Pipeline,Upper Mgeni,Midmar,0,0.5222647758517212
+2024-06-25,,Unknown,Unknown,0,0.5200139249028225
+2024-08-27,Howick Pipeline,Upper Mgeni,Midmar,0,0.5194529968660296
+2025-02-24,Howick Pipeline,Upper Mgeni,Midmar,0,0.5194304433232604
+2024-07-08,Howick Pipeline,Upper Mgeni,Midmar,0,0.5193901112055981
+2025-01-07,Howick Pipeline,Upper Mgeni,Midmar,1,0.519321092663313
+2025-01-03,Howick Pipeline,Upper Mgeni,Midmar,0,0.5179898836692708
+2024-05-08,Howick Pipeline,Upper Mgeni,Midmar,1,0.5169033607767216
+2025-02-27,Howick Pipeline,Upper Mgeni,Midmar,1,0.5159976996568699
+2025-02-19,Howick Pipeline,Upper Mgeni,Midmar,1,0.5127602874703329
+2025-01-15,,Unknown,Unknown,0,0.5119750877059998
+2024-07-09,Howick Pipeline,Upper Mgeni,Midmar,0,0.5115192673869464
+2025-03-31,,Unknown,Unknown,0,0.509701969407748
+2025-01-02,Howick Pipeline,Upper Mgeni,Midmar,1,0.5066053308920022
+2024-05-24,Howick Pipeline,Upper Mgeni,Midmar,0,0.5061374799581476
+2025-04-03,,Unknown,Unknown,0,0.505035088932812
+2024-08-18,Howick Pipeline,Upper Mgeni,Midmar,1,0.5042837159961444
+2025-04-10,Howick Pipeline,Upper Mgeni,Midmar,0,0.5034810213346428
+2025-05-09,Howick Pipeline,Upper Mgeni,Midmar,0,0.5015815036817687
+2025-01-15,Howick Pipeline,Upper Mgeni,Midmar,1,0.5012112471549668
+2025-01-31,Howick Pipeline,Upper Mgeni,Midmar,0,0.5003098574548868
+2024-12-24,,Unknown,Unknown,0,0.49924547935899094
+2024-07-18,Howick Pipeline,Upper Mgeni,Midmar,0,0.49894905122984834

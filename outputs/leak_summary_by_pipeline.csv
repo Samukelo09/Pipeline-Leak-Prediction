@@ -1,0 +1,35 @@
+pipeline,leak_count,wo_total,leak_share,length_km,leaks_per_km
+Unknown pipeline,261,2160,0.1208,,
+Lion Park Pipeline,226,522,0.433,8.6,26.2791
+’56 Pipeline,75,489,0.1534,7.3,10.274
+Eston-Umbumbulu Pipeline,47,302,0.1556,16.1,2.9193
+Wartburg Pipeline(’69 Pipeline),45,143,0.3147,19.3,2.3316
+Table Mountain Pipeline,38,102,0.3725,14.8,2.5676
+Albert Falls Pipeline,36,96,0.375,10.3,3.4951
+’Richmond Pipeline,34,210,0.1619,4.9,6.9388
+’61 Pipeline,33,268,0.1231,6.2,5.3226
+Manyavu Pipeline,32,104,0.3077,13.0,2.4615
+Mpophomeni Pipeline,32,94,0.3404,5.8,5.5172
+‘251 Pipeline,27,166,0.1627,3.3,8.1818
+Vulindlela Pipeline,26,185,0.1405,4.25,6.1176
+Thornville,26,152,0.1711,7.9,3.2911
+Howick Pipeline,24,117,0.2051,2.5,9.6
+’53 Pipeline,22,127,0.1732,26.6,0.8271
+Wartburg Pipeline,17,236,0.072,9.5,1.7895
+’57 Pipeline,16,43,0.3721,8.6,1.8605
+Bruyns Hill Pipeline,14,89,0.1573,12.0,1.1667
+Howick West Pipeline,14,64,0.2188,3.3,4.2424
+Ixopo Raw Water Rising Main,12,110,0.1091,1.38,8.6957
+’67 Pipeline (Old) - Backfeed,10,55,0.1818,9.8,1.0204
+Ashburton Pipeline,8,55,0.1455,2.7,2.963
+60 Pipeline,6,151,0.0397,6.2,0.9677
+261 Pipeline,6,12,0.5,29.6,0.2027
+‘51 Pipeline,3,60,0.05,10.8,0.2778
+’257 Pipeline,2,43,0.0465,8.5,0.2353
+’357 Pipeline,2,20,0.1,8.1,0.2469
+Hopewell Pipeline,1,41,0.0244,4.91,0.2037
+Ixopo Raw Water Gravity Pipeline,1,16,0.0625,0.42,2.381
+Ixopo Golf Course Borehole Pipeline,1,15,0.0667,1.5,0.6667
+Sweetwaters Pipeline,1,9,0.1111,4.4,0.2273
+Ambleton Pipeline,0,3,0.0,2.0,0.0
+Baynesfield,0,1,0.0,4.95,0.0
